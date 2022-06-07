@@ -1,4 +1,5 @@
 # indonesia-stopwords-remover
+This code is used to remove stopwords using Tala stopwords library for Indonesia.
 
 TXT file source: https://github.com/masdevid/ID-Stopwords
 
